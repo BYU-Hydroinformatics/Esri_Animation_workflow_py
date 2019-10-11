@@ -161,5 +161,4 @@ if __name__ == '__main__':
     # p.close()
     # p.join()
 
-
     logging.debug('Finished updating published services')
