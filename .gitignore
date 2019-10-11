@@ -1,0 +1,14 @@
+# Project exclude paths
+/venv/
+*/
+*.mxd
+*.lyr
+*.zip
+*.ini
+*.txt
+*.ps1
+*.log
+*.xml
+dissolve_features_testing.py
+sandbox.py
+pypscalltest.py
