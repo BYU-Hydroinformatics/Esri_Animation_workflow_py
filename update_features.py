@@ -47,4 +47,5 @@ if __name__ == "__main__":
     # copy gdb to production
     copyFiles(source, destination, exclusions=['*.lock'], overwrite=True)
 
+
     logging.debug('Finished updating features')

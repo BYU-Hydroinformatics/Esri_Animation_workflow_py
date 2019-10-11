@@ -65,6 +65,7 @@ def update_database(file_name):
             primary key (id));""" % global_region
         )
 
+
     # create new backup table
     cur.execute("""create table sde.%s_summary_table_old as table sde.south_asia_summary_table;""" % global_region)
 

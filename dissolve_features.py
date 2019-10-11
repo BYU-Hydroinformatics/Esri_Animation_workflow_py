@@ -3,7 +3,7 @@
 # File: dissolve_features.py
 # Author: Michael Souffront
 # Date: 03/05/2018
-# Last Modified: 09/12/2018
+# Last Modified: 10/08/2019
 # Purpose: Create dissolved FTs based on new forecast
 # Requirements: arcpy, psycopg2
 #
